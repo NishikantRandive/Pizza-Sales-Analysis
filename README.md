@@ -78,3 +78,4 @@ Quantity-Brie Carre Pizza contribute minimum to Total Quantities
 Total Orders-Brie Carre Pizza contribute minimum to Total Orders
 
 
+![Pizza Sales 1](https://github.com/user-attachments/assets/5bea11a3-e846-49ae-ba0b-a8e0cb624d91)
