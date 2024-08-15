@@ -79,3 +79,4 @@ Total Orders-Brie Carre Pizza contribute minimum to Total Orders
 
 
 ![Pizza Sales 1](https://github.com/user-attachments/assets/5bea11a3-e846-49ae-ba0b-a8e0cb624d91)
+![Pizza Sales 2](https://github.com/user-attachments/assets/83ec95fd-65e0-403f-9c98-9263382b17a5)
