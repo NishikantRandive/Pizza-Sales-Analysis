@@ -48,34 +48,15 @@ Number of Customers each day & Busiest hours: Number of customer served each day
 
 Average Orders & Pizzaper Day:Average Orders placed per Day & Pizzas sold per day.
 
-Summary of Findings
-Most occupied Days & Month:
-
-Days-Orders are highest on Friday & Saturday evenings
-
-Month-Orders are highest on January & July
-
-Sales Performance:
-
-Category-Classical contributes maximum to Sales & Total Orders
-
-Size-Large pizza contributes maximum to Sales
-
-Best Sellers:
-
-Revenue-Thai Chicken Pizza contribute maximum to Revenue
-
-Quantity-Classical Deluxe Pizza contributes maximum to Total Quantities
-
-Total Orders-Classic Deluxe Pizza contributes maximum to Total Orders
-
-Lowest Sellers:
-
-Revenue-Brie Carre Pizza contribute minimum to Revenue
-
-Quantity-Brie Carre Pizza contribute minimum to Total Quantities
-
-Total Orders-Brie Carre Pizza contribute minimum to Total Orders
+# Key visualizations include:
+- Total Revenue: $817,860 from 21,350 orders in 2015.
+- Average Order Value: $38.31 per customer.
+- Peak Order Times: Fridays and Saturdays evenings.
+- Monthly Order Trends: Peaks in July and May.
+- Top Selling Category: Classic pizzas lead in revenue and orders.
+- Pizza Size Preference: Large pizzas are the most popular.
+- Bestsellers: Thai Chicken and Classic Deluxe Pizzas.
+- Least Popular Item: Brie Carre pizza.
 
 
 ![Pizza Sales 1](https://github.com/user-attachments/assets/5bea11a3-e846-49ae-ba0b-a8e0cb624d91)
