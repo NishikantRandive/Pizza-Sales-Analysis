@@ -1,26 +1,27 @@
 # Pizza-Sales-Analysis
-Dataset Overview
+# Dataset Overview
   Dataset contains valuable information that could help us optimize our operations, boost sales, and enhance customer satisfaction. Here's a quick rundown of what you can expect from the dataset:
 
-Date and Time: 
+# Date and Time: 
   We have meticulously recorded the date and time of each order, allowing us to analyze customer behavior and identify potential peak hours.
 
-Pizza Details:
+# Pizza Details:
   Each entry includes comprehensive details about the pizzas ordered, including their types, sizes, quantities, prices, and the tantalizing ingredients that create an unforgettable culinary experience.
 
-Analysis
-Customer Traffic Analysis: Uncovering how many customers visits each day and exploring whether certain times of day experience higher footfall.
+# Analysis
+# Customer Traffic Analysis: 
+Uncovering how many customers visits each day and exploring whether certain times of day experience higher footfall.
 
-Bestselling Pizzas: 
+# Bestselling Pizzas: 
 Analyzing the data to find out which pizzas are the most popular among our customers. Identifying bestsellers can inform our marketing strategies and help us focus on promoting these crowd favorites.
 
-Revenue and Seasonality: 
+# Revenue and Seasonality: 
 Calculating the total revenue generated over the year to get an overall picture of our financial performance. Additionally, investigating whether there are any seasonal patterns in sales to plan for peak and slow periods.
 
-Menu Optimization and Promotions:
+# Menu Optimization and Promotions:
 Using the data to identify pizzas that are underperforming or receiving little attention.
 
-Key Questions Explored
+# Key Questions Explored
 Total Revenue: Total Revenue generated over the period.
 
 Average Order Value: Average order value throughout the year.
@@ -76,6 +77,4 @@ Quantity-Brie Carre Pizza contribute minimum to Total Quantities
 
 Total Orders-Brie Carre Pizza contribute minimum to Total Orders
 
-Most occupied Time:
 
-Lunch-12 P.M. - 1:30 P.M., Dinner-6 P.M. - 8 P.M.
